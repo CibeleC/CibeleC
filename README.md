@@ -1,8 +1,8 @@
 ### Hi, I  am  Cibele  🔭 study programming and work with information technology 🌱⚡
  <div align="center">
   <a href="https://github.com/cibelec">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cibeleC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibelec&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=cibeleC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibelec&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="20" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,8 +14,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right"  height="150" style="border-radius:50px;" 
        
- ![9f6a41c4f4c1ead1a67317a47a840cde](https://user-images.githubusercontent.com/85027083/148140133-f8f6f855-8db8-481b-8a55-d57722750ad3.gif)
-
+  <img src="https://user-images.githubusercontent.com/85027083/148140133-f8f6f855-8db8-481b-8a55-d57722750ad3.gif" width="200">
 </div>
   
  ##
